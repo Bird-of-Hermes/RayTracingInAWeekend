@@ -8,3 +8,6 @@ The default approach uses all available cores but you can disable it by uncommen
 # Build
 Only windows libraries were used -> gdi32.lib; user32.lib
 Open up the .sln file and compile it
+
+# Images
+![Captura de tela 2024-07-27 221719](https://github.com/user-attachments/assets/3a5728c4-7fb2-40e4-adcb-fac4e5cbf283)
