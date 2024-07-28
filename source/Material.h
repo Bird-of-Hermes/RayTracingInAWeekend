@@ -34,7 +34,7 @@ public:
 	{
 		type = MaterialType::METALLIC;
 		Albedo = albedo;
-		Fuzz = fuzz > 1.0f ? 1.0f : fuzz;
+		Fuzz = fminf(fuzz, 1.0f);
 	}
 
 	bool Scatter(const Ray& In, HitRegistry* rec, Vec3f& attenuation, Ray& scattered) const noexcept;
