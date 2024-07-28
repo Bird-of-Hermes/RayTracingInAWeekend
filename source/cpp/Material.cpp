@@ -1,4 +1,4 @@
-#include "Material.h"
+#include "../Material.h"
 
 bool Material::Scatter(const Ray& In, HitRegistry* rec, Vec3f& attenuation, Ray& scattered) const noexcept
 {

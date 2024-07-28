@@ -15,51 +15,51 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="source\cpp\main.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="RT_Window.cpp">
+    <ClCompile Include="source\cpp\RT_Window.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="Material.cpp">
+    <ClCompile Include="source\cpp\Material.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="RT_Window.h">
+    <ClInclude Include="source\RT_Window.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="Renderer.h">
+    <ClInclude Include="source\Renderer.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="ErrorEnum.h">
+    <ClInclude Include="source\ErrorEnum.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="Maths.h">
+    <ClInclude Include="source\Maths.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="Raytracer.h">
+    <ClInclude Include="source\Raytracer.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="NaiveMath.h">
+    <ClInclude Include="source\NaiveMath.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="Ray.h">
+    <ClInclude Include="source\Ray.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="Sphere.h">
+    <ClInclude Include="source\Sphere.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="Hittable.h">
+    <ClInclude Include="source\Hittable.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="Random.h">
+    <ClInclude Include="source\Random.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="Camera.h">
+    <ClInclude Include="source\Camera.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="Material.h">
+    <ClInclude Include="source\Material.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
